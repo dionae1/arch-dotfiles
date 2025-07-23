@@ -1,9 +1,0 @@
-*.env
-*.secret
-*token*
-
-.cache/current_wallpaper
-
-.zsh_history
-
-*.log
