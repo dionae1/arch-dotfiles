@@ -2,7 +2,6 @@
 base
 brightnessctl
 cliphist
-cmatrix
 dolphin
 fastfetch
 firefox
