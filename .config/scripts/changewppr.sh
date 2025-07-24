@@ -22,7 +22,7 @@ if [ -z "$SELECTED_WALLPAPER" ]; then
     exit 0
 fi
 
-echo "Aplying wallpaper: $SELECTED_WALLPAPER"
+echo "Applying wallpaper: $SELECTED_WALLPAPER"
 
 MONITOR=$(hyprctl monitors | grep "focused: yes" -B 10 | grep "Monitor" | awk '{print $2}')
 
