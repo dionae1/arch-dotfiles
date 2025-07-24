@@ -1,0 +1,36 @@
+# ~.config/swaylock/config
+
+screenshots
+daemonize
+clock
+ignore-empty-password
+
+effect-blur=12x8
+effect-vignette=0.4:0.4
+
+text-color=e0e0e0cc
+font=JetBrains Nerd Font
+font-size=24
+
+indicator
+indicator-idle-visible
+indicator-radius=90
+indicator-thickness=6
+
+ring-color=3a3a3a
+line-color=3a3a3a88
+inside-color=222222
+separator-color=00000000
+
+key-hl-color=c0c0c0
+bs-hl-color=aa5555
+
+inside-ver-color=4c8c6c
+ring-ver-color=4c8c6c
+line-ver-color=4c8c6c
+text-ver=Verificando…
+
+inside-wrong-color=7f1d1d
+ring-wrong-color=7f1d1d
+line-wrong-color=7f1d1d00
+text-wrong=Senha incorreta
