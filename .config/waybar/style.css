@@ -1,9 +1,10 @@
 * {
     font-family: 'JetBrainsMono Nerd Font';
     font-size: 14px;
+    font-weight: bold;
     background-color: transparent;
     color: #ffffff;
-	transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
 }
 
 window#waybar {
